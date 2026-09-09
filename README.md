@@ -1,1 +1,4 @@
-# info2180-l
+# INFO2180 Lab 1
+
+This is Lab1 for Alexandria Green
+
